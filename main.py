@@ -35,3 +35,4 @@ if __name__ == "__main__":
                  1521580, 2130212, 2662765, 5325530, 10651060]
 
     print(f"Time taken for parallel factorization: {elapsed_time} seconds")
+
